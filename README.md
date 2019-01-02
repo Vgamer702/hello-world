@@ -1,3 +1,3 @@
 # hello-world
 The Begining
-Never too late to learn something new. 
+It's never too late to learn something new. 
